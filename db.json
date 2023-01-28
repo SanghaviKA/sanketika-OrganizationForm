@@ -1,0 +1,46 @@
+{
+  "organizations": [
+    {
+      "orgName": "sdasda",
+      "orgAddress": "Kathariguppe",
+      "phoneNumber": "09902145993",
+      "email": "akashtej612@gmail.com",
+      "id": 1,
+      "employees": [
+        {
+          "name": "manju K",
+          "age": 22,
+          "address": 8893284932,
+          "email": "sanghavi258@gmail.com"
+        },
+        {
+          "name": "Sanghavi KA",
+          "age": 22,
+          "address": 8893284932,
+          "email": "sanghavi258@gmail.com"
+        }
+      ]
+    },
+    {
+      "orgName": "kjiujij",
+      "orgAddress": "Kathariguppe",
+      "phoneNumber": "09902145993",
+      "email": "akashtej612@gmail.com",
+      "id": 2,
+      "employees": [
+        {
+          "name": "manju K",
+          "age": 22,
+          "address": 8893284932,
+          "email": "sanghavi258@gmail.com"
+        },
+        {
+          "name": "Sanghavi KA",
+          "age": 22,
+          "address": 8893284932,
+          "email": "sanghavi258@gmail.com"
+        }
+      ]
+    }
+  ]
+}
