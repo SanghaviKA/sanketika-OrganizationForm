@@ -1,0 +1,21 @@
+{
+    "organisationId": 2,
+    "employes": [
+      {
+        "name": "ankitha K",
+        "age": 22,
+        "address": "Bengalore",
+        "email": "sanghavi258@gmail.com"
+      },
+      {
+        "name": "Vennala KA",
+        "age": 23,
+        "address": "Bengalore",
+        "email": "sanghavi258@gmail.com"
+      }
+      
+    ]
+  
+  }
+  
+  
